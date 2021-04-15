@@ -1,0 +1,41 @@
+@media all and (min-width:468px){
+    .bs-example{
+        justify-content: center;
+    }
+    .navbar-brand{
+        flex: 1;
+    }
+    /* .item.button{
+        width: auto;
+        order: 1;
+        display: block;
+    } */
+
+    /* .toggle{
+        order: 2;
+    }
+    .button.secondary{
+        border: 0;
+    } */
+
+    /* .button a{
+        text-decoration: none;
+        padding: 7px 15px;
+        background: teal;
+        border: 1px solid #006d6d;
+        border-radius: 50em;
+    }
+    .button.secondary a{
+        background: transparent;
+    }
+    .button a:hover{
+        transition: all .25s;
+    }
+    .button:not(.secondary) a:hover{
+        background: #006d6d;
+        border-color: #005959;
+    }
+    .button.secondary a:hover{
+        color: #ddd;
+    } */
+}
